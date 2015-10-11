@@ -1,0 +1,40 @@
+body {
+  background: url("http://s1.wallippo.com/thumbs/300x250/wedding-love-vector-background-f11c371a927e3f88a769b7bdd1f0d812.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*background-repeat: repeat-x;*/
+}
+
+#result {
+  position:relative;
+  display: none;
+}
+
+#first {
+  margin: 20px 500px;
+}
+
+#last {
+  display: none;
+}
+
+#again {
+  margin-left: 10px;
+}
+
+.mom img {
+  width: 350px;
+  height: 300px;
+  margin-left: 100px;
+  padding: 10px;
+
+}
+
+.mom img.transparent {
+  opacity: 0;
+}
+
+h3 {
+  color: darkblue;
+  text-align: center;
+}
