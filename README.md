@@ -1,10 +1,6 @@
-# <Name>
+# For Mom and Dad
 
-##### <Brief Description>, <Date>
-
-#### <Authors>
-
-## Description
+This is a personal project to make a simple online card for my parents for their anniversary.
 
 
 
